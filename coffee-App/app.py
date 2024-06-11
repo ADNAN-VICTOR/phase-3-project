@@ -32,7 +32,29 @@ def menu():
         else:
             print("Invalid input, please try again.")
 
+def add_bean(connection):
+    name = input("Enter bean name: ")
+    method = input("Enter how you've prepared it: ")
+    rating = int(input("Enter your rating score (0-100): "))
+    database.add_bean(connection,name, method, rating)
 
+def get_all_beans(connection):
+    beans = database.get_all_beans(connection)
+    for bean in beans:
+        print(f"{bean[1]} ({bean[2]}) - {bean[3]}/100")
+
+def find_bean(connection):
+    name = input("Enter bean name to find: ")
+    beans = database.get_beans_by_name(connection, name)
+
+    for bean in beans:
+        print (f"{bean[1]} ({bean[2]}) - {bean[3]}/100")
+
+def find_best_method(connection):
+    name = input("Enter bean name to find: ")
+    best_method = database.best_preparation_for_bean(connection,name)
+
+    print(f"The best preparation method for {name} is {best_method[2]} ")
 
 
 menu()
