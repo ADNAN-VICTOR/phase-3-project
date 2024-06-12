@@ -1,0 +1,20 @@
+Arabica: Best prepared using the pour-over method. Rating: 90/100.
+Robusta: Best prepared using espresso. Rating: 85/100.
+Ethiopian Yirgacheffe: Best prepared using the Chemex method. Rating: 92/100.
+Colombian Supremo: Best prepared using French press. Rating: 88/100.
+Kenyan AA: Best prepared using Aeropress. Rating: 91/100.
+Guatemalan Antigua: Best prepared using the pour-over method. Rating: 89/100.
+Costa Rican Tarrazu: Best prepared using the drip coffee maker. Rating: 87/100.
+Brazilian Santos: Best prepared using the French press. Rating: 86/100.
+Sumatra Mandheling: Best prepared using the espresso machine. Rating: 88/100.
+Hawaiian Kona: Best prepared using the siphon method. Rating: 90/100.
+Panama Geisha: Best prepared using the pour-over method. Rating: 95/100.
+Tanzanian Peaberry: Best prepared using the Chemex method. Rating: 92/100.
+Nicaraguan Jinotega: Best prepared using the Aeropress. Rating: 89/100.
+Peruvian Chanchamayo: Best prepared using the French press. Rating: 88/100.
+Mexican Chiapas: Best prepared using the drip coffee maker. Rating: 87/100.
+Vietnamese Robusta: Best prepared using Vietnamese drip. Rating: 86/100.
+Indonesian Java: Best prepared using the espresso machine. Rating: 88/100.
+Indian Monsooned Malabar: Best prepared using the cold brew method. Rating: 90/100.
+Ethiopian Sidamo: Best prepared using the Moka pot. Rating: 91/100.
+Kenyan Peaberry: Best prepared using the siphon method. Rating: 93/100.
