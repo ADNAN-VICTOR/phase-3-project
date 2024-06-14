@@ -13,19 +13,19 @@ This project aims to provide a simple SQLite database management system for coff
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/ADNAN-VICTOR/phase-3-project.git
     ```
 
 2. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r sqlalchemy
     ```
 
 3. Run the script:
 
     ```bash
-    python main.py
+    python3 app.py
     ```
 
 ## Usage
